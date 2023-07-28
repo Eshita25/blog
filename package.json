@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fonts": "^0.0.2",
+    "google": "^2.1.0"
+  }
+}
